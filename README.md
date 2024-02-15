@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandesh4141
-- 👀 I’m interested in tech/development;
+- 👀 I’m interested in Tech | Development |Coding;
 - 🌱 I’m currently learning lots of things
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me - sandeshpawar414141@gmail.com
