@@ -8,16 +8,16 @@
 ---
 
 ### 🚀 About Me:
-- 💻 Passionate about **Software Development**, **Mobile Apps**, and **Cloud Computing**.
-- 🌱 Always learning: currently diving into **Flutter**, and **Web Development**.
+- 💻 Passionate about **Software Development**, **Mobile Apps**, and **Cyber Security**.
+- 🌱 Always learning: currently diving into **React Native**, and **iOS Dev (SwiftUI)**.
 - 🎯 Focused on creating impactful projects with a combination of **innovation** and **clean code**.
 - 💡 Open to collaborating on open-source projects that make a difference.
 
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** JavaScript | Python | Dart | SQL | Java | C/C++
-- **Frameworks:** Express.js | Flutter | React | Node.js
+- **Languages:** JavaScript | TypeScript | Swift | Java | C/C++
+- **Frameworks:** SwfitUI | Express.js | React Native | Node.js 
 - **Databases:** PostgreSQL | MongoDB
 - **Version Control:** Git | GitHub
 
