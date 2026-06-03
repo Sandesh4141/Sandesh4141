@@ -1,21 +1,28 @@
 ## Hi, I'm Sandesh Pawar 👋
 
-React Native & React Developer | TypeScript · Firebase · Express.js · PostgreSQL
+React Native Developer | TypeScript · Firebase · SwiftUI · Express.js
 
 ---
 
 ### What I build
 - Cross-platform mobile apps with React Native
-- Web apps with React + shadcn/ui  
+- iOS apps with SwiftUI (REST APIs, Charts, Auth)
+- Web apps with React + shadcn/ui
 - REST APIs with Express.js + PostgreSQL
 
 ---
 
 ### Tech Stack
-**Mobile:** React Native · Expo · React Navigation · Firebase  
-**Frontend:** React · TypeScript · shadcn/ui · Vite  
+**Mobile:** React Native · Expo · SwiftUI · Firebase · React Navigation  
+**Frontend:** React · TypeScript · shadcn/ui  
 **Backend:** Node.js · Express.js · PostgreSQL  
-**Tools:** Git · Zustand · Redux · AsyncStorage  
+**Tools:** Git · Zustand · Redux · Sentry  
+
+---
+
+###  Work
+- Contributed to — crash tracking in SDK for React Native
+- Built SwiftUI app with REST API auth, bar charts, and scatter plots using Swift Charts
 
 ---
 
