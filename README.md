@@ -1,48 +1,30 @@
-# 👋 Hi, I'm Sandesh Pawar (@Sandesh4141)
+## Hi, I'm Sandesh Pawar 👋
 
-### 👨‍💻 Tech Enthusiast | Full-Stack Developer | Open Source Contributor
-
-![github-header-image](https://github.com/user-attachments/assets/2785ff77-edf5-4af0-a58f-51bdebf24e22)
-
+React Native & React Developer | TypeScript · Firebase · Express.js · PostgreSQL
 
 ---
 
-### 🚀 About Me:
-- 💻 Passionate about **Software Development**, **Mobile Apps**, and **Cyber Security**.
-- 🌱 Always learning: currently diving into **React Native**, and **iOS Dev (SwiftUI)**.
-- 🎯 Focused on creating impactful projects with a combination of **innovation** and **clean code**.
-- 💡 Open to collaborating on open-source projects that make a difference.
+### What I build
+- Cross-platform mobile apps with React Native
+- Web apps with React + shadcn/ui  
+- REST APIs with Express.js + PostgreSQL
 
 ---
 
-### 🛠️ Technologies & Tools:
-- **Languages:** JavaScript | TypeScript | Swift | Java | C/C++
-- **Frameworks:** SwfitUI | Express.js | React Native | Node.js 
-- **Databases:** PostgreSQL | MongoDB
-- **Version Control:** Git | GitHub
+### Tech Stack
+**Mobile:** React Native · Expo · React Navigation · Firebase  
+**Frontend:** React · TypeScript · shadcn/ui · Vite  
+**Backend:** Node.js · Express.js · PostgreSQL  
+**Tools:** Git · Zustand · Redux · AsyncStorage  
 
 ---
 
-### 🔭 I'm currently working on:
-- Building **customizable portfolios** to showcase projects.
-- Implementing **AI-driven features** in web applications.
+### Projects
+- **DevFeed** — React Native developer news app · [GitHub](https://github.com/sandesh41work-ops/DevFeed)
+- **LMS** — Full stack Learning Management System · [Frontend](https://github.com/Sandesh4141/lms-frontend) · [Backend](https://github.com/Sandesh4141/LMS)
+- **Unreleased Beats** — Web platform for DJ community · [GitHub](https://github.com/Sandesh4141/Unreleased-Beats)
 
 ---
 
-### 🤝 Let's Collaborate:
-- 💬 Have an idea or need a hand with a project? Let's connect! I'm always open to contributing to open-source projects and learning new tech stacks together.
-- 📧 You can reach me at **sandeshpawar414141@gmail.com** or find me on [LinkedIn](https://www.linkedin.com/in/sandesh-pawar-263a00190/).
-
----
-
-### ✨ Fun Facts:
-- 🎵 I'm a music lover and enjoy DJ-ing when I'm not coding.
-- 🌍 Exploring tech innovations globally while keeping an eye on open-source trends.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandesh4141&show_icons=true&theme=radical)
-
----
-
-Thanks for stopping by! 😊 Keep Coding!
+📧 sandeshpawar414141@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/sandesh-pawar-263a00190/)
